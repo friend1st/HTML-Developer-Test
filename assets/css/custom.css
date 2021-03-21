@@ -969,4 +969,15 @@ aside{
     float: left;
     padding-left: 0px;
 }
+.custom_filter .d-inline {
+    display: block !important;
+    float: left;
+    width: 100%;
+} 
+.custom_filter .d-inline input {
+    width: 100% !important;
+    margin-top: 10px;
+	margin-bottom: 10px;
+}
+
  }
