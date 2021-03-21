@@ -959,4 +959,8 @@ aside{
  text-align:center !important;
  padding:12px;
 }
+.custom-checkbox {
+    float: left;
+    padding-left: 0px;
+}
  }
