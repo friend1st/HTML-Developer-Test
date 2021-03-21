@@ -981,3 +981,10 @@ aside{
 }
 
  }
+ 
+ 
+@media (max-width: 440px) { 
+.widget-header {
+    margin-right: 3px !important;
+}
+}
