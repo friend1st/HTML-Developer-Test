@@ -952,11 +952,21 @@ aside{
     width: auto;
     border-left: 0px solid #f0f2f7 !important; 
 }
+.pagination_custom .page-link { 
+    padding: 8px 11px 7px 11px;
+}
+.pagination_custom .page-link:hover{
+    padding: 8px 11px 7px 11px;
+}
 .footer_logo{
  text-align: center;
 }
  .sm_align{
  text-align:center !important;
  padding:12px;
+}
+.custom-checkbox {
+    float: left;
+    padding-left: 0px;
 }
  }
