@@ -952,6 +952,12 @@ aside{
     width: auto;
     border-left: 0px solid #f0f2f7 !important; 
 }
+.pagination_custom .page-link { 
+    padding: 8px 11px 7px 11px;
+}
+.pagination_custom .page-link:hover{
+    padding: 8px 11px 7px 11px;
+}
 .footer_logo{
  text-align: center;
 }
@@ -963,4 +969,15 @@ aside{
     float: left;
     padding-left: 0px;
 }
+.custom_filter .d-inline {
+    display: block !important;
+    float: left;
+    width: 100%;
+} 
+.custom_filter .d-inline input {
+    width: 100% !important;
+    margin-top: 10px;
+	margin-bottom: 10px;
+}
+
  }
